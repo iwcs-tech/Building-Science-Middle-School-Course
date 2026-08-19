@@ -1,0 +1,3 @@
+# Normalize text automatically and keep Markdown consistent across platforms.
+* text=auto
+*.md text eol=lf
