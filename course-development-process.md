@@ -43,6 +43,10 @@ The following developer-facing documents record the current direction and should
 - [Systems-Model Evidence Progression](docs/development/systems-model-evidence-progression-proposal.md) — a review packet for comparing candidate course-level outcomes and evidence across the developing strands.
 - [Climate-Context Design Cases Prototype](docs/development/prototypes/climate-context-design-cases/README.md) — two draft lessons that use fictional climate contexts and modeled design comparisons.
 - [Materials Life-Cycle Tradeoffs Prototype](docs/development/prototypes/materials-life-cycle-tradeoffs/README.md) — two draft lessons that use fictional life-cycle and material-choice comparisons.
+- [Air and Ventilation Systems Prototype](docs/development/prototypes/air-and-ventilation-systems/README.md) — two draft lessons that use fictional air-path models and ventilation-choice comparisons.
+- [Water-Use Systems Prototype](docs/development/prototypes/water-use-systems/README.md) — two draft lessons that use fictional water-use maps and model comparisons.
+- [Feedback-and-Controls Systems Prototype](docs/development/prototypes/feedback-and-controls-systems/README.md) — two draft lessons that use fictional feedback-loop models and control-plan comparisons.
+- [Culminating Task Comparison Packet](docs/development/prototypes/culminating-task-comparison/README.md) — three fictional end-task candidates, a comparison rubric, and a pacing review for educator decision-making.
 - [Instructional Materials and GitHub Plan](docs/development/instructional-materials-and-github-plan.md) — the planned material types, repository structure, and decisions required before public release.
 
 ## Confirmed Project Decisions
@@ -128,7 +132,7 @@ Partnership development should follow the course's learning goals rather than de
 
 The first classroom version will use a Markdown-first set of materials. A representative unit will normally include a unit overview, teacher-facing lesson plans and facilitation notes, student-facing activity materials, presentation content where visuals provide a clear advantage, and assessment materials. Detailed teaching scripts are not the default; educators should be able to adapt the materials to their students and local context.
 
-The detailed output model and a staged public-GitHub plan are maintained in the [Instructional Materials and GitHub Plan](docs/development/instructional-materials-and-github-plan.md). This plan does not authorize creation or publication of a remote repository; repository ownership and licensing remain decisions for the course developer.
+The detailed output model and public-GitHub workflow are maintained in the [Instructional Materials and GitHub Plan](docs/development/instructional-materials-and-github-plan.md). When a project document is created or modified, the completed change should be validated, committed, and pushed to the tracked GitHub repository. Publication does not change a document's draft or review-only status; licensing remains a decision for the course developer.
 
 ## Immediate Next Decisions
 
@@ -140,4 +144,4 @@ The detailed output model and a staged public-GitHub plan are maintained in the 
 
 ---
 
-_Last updated: 2026-08-19_
+_Last updated: 2026-09-24_

@@ -4,7 +4,7 @@ _Developer-facing plan for building adaptable classroom materials and preparing 
 
 ## Purpose
 
-This plan turns the project's broad material categories into an initial, Markdown-first working model. It also prepares for public, open-source publication without treating drafts as classroom-ready curriculum or creating a remote repository before the course developer chooses its owner and license.
+This plan turns the project's broad material categories into an initial, Markdown-first working model. Project documents are published to the tracked GitHub repository as they are created or modified, without treating development drafts as classroom-ready curriculum. A license has not yet been selected.
 
 ## Initial Material Model
 
@@ -31,9 +31,9 @@ This plan turns the project's broad material categories into an initial, Markdow
 - Use accessible language, descriptive image text, clear source attribution, and formats educators can revise.
 - Add non-Markdown files only when they provide a real functional advantage, such as an editable slide deck or structured data workbook.
 
-## Proposed Local Repository Layout
+## Intended Repository Layout
 
-This is a planned structure, not a claim that a Git repository already exists:
+This is the intended structure for the existing repository. Publishing a document does not authorize moving an unreviewed draft into `curriculum/`.
 
 ```text
 README.md
@@ -58,7 +58,7 @@ assets/
 
 `docs/development/` makes the planning status visible. `curriculum/` should contain only materials that have completed the relevant educator review.
 
-The current draft prototypes are [Heat-Flow Launch](prototypes/heat-flow-launch/README.md), [Moisture Pathways](prototypes/moisture-pathways/README.md), [Climate-Context Design Cases](prototypes/climate-context-design-cases/README.md), and [Materials Life-Cycle Tradeoffs](prototypes/materials-life-cycle-tradeoffs/README.md). The companion [Systems-Model Evidence Progression](systems-model-evidence-progression-proposal.md) is developer-facing rather than student-facing. All stay in `docs/development/` until they have been reviewed and tested.
+The current draft prototypes are [Heat-Flow Launch](prototypes/heat-flow-launch/README.md), [Moisture Pathways](prototypes/moisture-pathways/README.md), [Climate-Context Design Cases](prototypes/climate-context-design-cases/README.md), [Materials Life-Cycle Tradeoffs](prototypes/materials-life-cycle-tradeoffs/README.md), [Air and Ventilation Systems](prototypes/air-and-ventilation-systems/README.md), [Water-Use Systems](prototypes/water-use-systems/README.md), and [Feedback-and-Controls Systems](prototypes/feedback-and-controls-systems/README.md). The companion [Systems-Model Evidence Progression](systems-model-evidence-progression-proposal.md) and [Culminating Task Comparison Packet](prototypes/culminating-task-comparison/README.md) are developer-facing rather than selected student assessments. All stay in `docs/development/` until they have been reviewed and tested.
 
 ## Staged Public-GitHub Plan
 
@@ -68,15 +68,16 @@ The current draft prototypes are [Heat-Flow Launch](prototypes/heat-flow-launch/
 - Attribute external sources and record the license or permission status of every reusable asset.
 - Keep student information, school-specific private information, credentials, and copyrighted materials that cannot be redistributed out of the project.
 
-### Stage 2 — Establish the Repository
+### Stage 2 — Maintain the Public Working Repository
 
-Before creating or publishing a GitHub repository, the course developer should choose:
+When a project document is created or modified:
 
-1. Repository owner or organization and repository name
-2. License for curriculum text and original visual assets
-3. Whether development drafts will be public immediately or only reviewed materials will be public
-4. Contribution policy, including educator feedback, issue reporting, and review expectations
-5. Versioning and release convention
+1. Keep its development, review, and classroom-testing status explicit.
+2. Validate links, formatting, and the absence of private information or credentials.
+3. Commit the completed document change and push it to the tracked GitHub repository.
+4. Keep unreviewed work under `docs/development/`; move materials into `curriculum/` only after the relevant educator approval.
+
+The course developer still needs to choose the license, contribution policy, and versioning or release convention.
 
 ### Stage 3 — First Public Release
 
@@ -88,10 +89,10 @@ Before creating or publishing a GitHub repository, the course developer should c
 ## Pending Decisions
 
 - **License:** No license has been selected. A Creative Commons license may fit curriculum materials, but the course developer must choose the exact terms before publication.
-- **Working in public:** The project intends to publish openly, but whether unreviewed development drafts will be public remains undecided.
-- **Repository:** No Git repository or remote GitHub repository exists in this workspace yet.
+- **Working in public:** New and modified project documents are pushed to the tracked GitHub repository while retaining explicit draft and review-only labels.
+- **Repository:** The local workspace tracks `origin` at `https://github.com/iwcs-tech/Building-Science-Middle-School-Course.git`.
 - **Asset policy:** The project needs a final rule for photographs, diagrams, presentation templates, and other media before public release.
 
 ---
 
-_Last updated: 2026-08-19_
+_Last updated: 2026-09-24_
