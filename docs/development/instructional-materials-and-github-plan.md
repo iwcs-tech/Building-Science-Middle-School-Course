@@ -42,6 +42,7 @@ CONTRIBUTING.md                 # added before outside contributions are invited
 docs/
   development/                  # proposals, research, decisions, project brief
     prototypes/                 # draft materials awaiting educator review/testing
+    supplementary/              # preserved school/commercial drafts; not the residential sequence
   educator-guide/               # reviewed course-level guidance
 curriculum/
   units/
@@ -58,7 +59,7 @@ assets/
 
 `docs/development/` makes the planning status visible. `curriculum/` should contain only materials that have completed the relevant educator review.
 
-The current draft prototypes are [Heat-Flow Launch](prototypes/heat-flow-launch/README.md), [Moisture Pathways](prototypes/moisture-pathways/README.md), [Climate-Context Design Cases](prototypes/climate-context-design-cases/README.md), [Materials Life-Cycle Tradeoffs](prototypes/materials-life-cycle-tradeoffs/README.md), [Air and Ventilation Systems](prototypes/air-and-ventilation-systems/README.md), [Water-Use Systems](prototypes/water-use-systems/README.md), and [Feedback-and-Controls Systems](prototypes/feedback-and-controls-systems/README.md). The companion [Systems-Model Evidence Progression](systems-model-evidence-progression-proposal.md) and [Culminating Task Comparison Packet](prototypes/culminating-task-comparison/README.md) are developer-facing rather than selected student assessments. All stay in `docs/development/` until they have been reviewed and tested.
+The [residential water-use prototype](prototypes/water-use-systems/README.md) is a new main-context draft for review. Earlier school/commercial prototypes, the original water case, feedback and controls, and the culminating-task packet are preserved under [supplementary resources](supplementary/school-and-commercial/README.md), not designated as residential units. The [Systems-Model Evidence Progression](systems-model-evidence-progression-proposal.md) is still a developer-facing proposal. All remain in `docs/development/` until educator review and testing.
 
 ## Staged Public-GitHub Plan
 
@@ -95,4 +96,4 @@ The course developer still needs to choose the license, contribution policy, and
 
 ---
 
-_Last updated: 2026-09-24_
+_Last updated: 2026-10-17_

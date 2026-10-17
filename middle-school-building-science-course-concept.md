@@ -4,9 +4,9 @@ _A working concept for a nine-week, open-source building science course for seve
 
 ## Purpose
 
-This course introduces students to the idea that a building is not merely a box with four walls. A building is a dynamic system in which heat, air, moisture, light, sound, materials, weather, and people continually interact.
+This course introduces seventh- and eighth-grade students to the building science of an ordinary single-family home. A home is a system whose enclosure, equipment, occupants, and surroundings interact. Students use models and supplied evidence to explore how heat, air, and water can move through a home and affect comfort, indoor conditions, durability, and energy use. The final content strands remain to be selected.
 
-The course should help students notice the science occurring in ordinary buildings, ask useful questions about what they observe, and use evidence to develop simple explanations.
+The course should help students notice the science occurring in ordinary homes, ask useful questions, and use evidence to develop simple explanations.
 
 This document describes the course itself. The process used to research, design, test, and publish the course is described in [Course Development Process](course-development-process.md).
 
@@ -25,7 +25,7 @@ This document describes the course itself. The process used to research, design,
 
 ## Central Course Idea
 
-> Buildings are systems. Their parts interact with one another, with the people inside them, and with the environment around them.
+> A home is more than a box with four walls. Its parts interact with one another, the people living in it, and the environment around it.
 
 The course should make this idea visible through familiar questions and observable phenomena rather than through professional-level technical training.
 
@@ -33,12 +33,12 @@ The course should make this idea visible through familiar questions and observab
 
 The final learning outcomes still need to be developed. As a starting point, students may learn to:
 
-- Recognize scientific processes occurring in and around buildings.
+- Recognize scientific processes occurring in and around homes.
 - Explain simple cause-and-effect relationships involving heat, air, moisture, light, sound, materials, weather, and people.
-- Observe a building carefully and ask productive scientific questions about it.
+- Interpret supplied observations of a home and ask productive scientific questions about it.
 - Gather and interpret basic observations or measurements.
 - Use evidence to support an explanation or recommendation.
-- Recognize that building decisions involve tradeoffs among comfort, health, durability, energy, environmental impact, and cost.
+- Recognize that home-design decisions can involve tradeoffs among comfort, health, durability, energy, environmental impact, and cost.
 
 These statements are provisional and should be refined before the full course is outlined.
 
@@ -46,7 +46,7 @@ These statements are provisional and should be refined before the full course is
 
 The course may include some combination of the following:
 
-- Buildings as interconnected systems
+- Homes as interconnected systems
 - Heat transfer and thermal comfort
 - Air movement and ventilation
 - Water, moisture, and condensation
@@ -69,13 +69,15 @@ The first version should be designed for teacher-led classroom instruction. Less
 
 - Short teacher explanations and visual presentations
 - Discussion of familiar building experiences
-- Brief observations of the classroom or school building
+- Simple classroom investigations of general physical processes, then application to supplied fictional or approved single-family-home cases
 - Laptop-based research, analysis, simulations, or documentation
 - Simple, inexpensive investigations that can be completed safely in a standard classroom
 - Collaborative problem-solving and communication
-- A culminating task that helps students explain how a building works as a system
+- A culminating task that helps students explain how a home works as a system
 
 Hands-on investigations and observations should be used when they support a learning goal. The course should not assume access to a workshop, specialized tools, construction materials, or repeated off-campus visits.
+
+Participation does not depend on visiting, measuring, photographing, or describing a student's home. School-building observations may illustrate a general process, but the home remains the main case.
 
 ## Possible Course Formats
 
@@ -100,4 +102,4 @@ AI tools used to develop the curriculum are not automatically part of the studen
 
 ---
 
-_Last updated: 2026-08-09_
+_Last updated: 2026-10-17_

@@ -6,17 +6,17 @@ _Canonical developer-facing status brief._
 
 - **Phase:** Phase 1 — Define the Course
 - **Classroom version first:** Teacher-led, then adapted for other formats after testing
-- **Residential subject:** The course developer clarified that an ordinary single-family home is the intended building-science subject. The [Residential Building Science Scope Review Packet](residential-scope-reset-review-packet.md) proposes course wording and audits the existing drafts; the proposed wording has not yet replaced the course concept.
+- **Residential subject:** The course developer approved an ordinary single-family home as the main subject and approved the corresponding [course-concept](../../middle-school-building-science-course-concept.md) wording. School/commercial cases are retained as [supplementary drafts](supplementary/school-and-commercial/README.md).
 - **Repository status:** The local workspace tracks the remote [Building Science Middle School Course repository](https://github.com/iwcs-tech/Building-Science-Middle-School-Course). New and modified project documents are validated, committed, and pushed while retaining their explicit draft and review-only status. A license has not yet been selected.
-- **Heat-flow status:** Approved for continued Phase 1 development as a recurring explanatory idea, not as the course's sole organizing concept. A three-meeting draft prototype is prepared for review; Phase 3 classroom testing has not started.
-- **Moisture-pathways status:** A candidate strand is now represented by a two-meeting draft prototype using fictional source → path → effect cases. It remains subject to educator review and does not settle the essential-strand decision.
+- **Heat-flow status:** Approved for continued Phase 1 development as a recurring explanatory idea, not as the course's sole organizing concept. The earlier classroom-based prototype is supplementary; a residential version has not been built.
+- **Moisture-pathways status:** The earlier classroom/library prototype is supplementary. A residential strand remains a candidate and is not selected.
 - **Systems-model status:** A developer-facing candidate outcome and evidence progression is prepared for review. It connects current and future work without selecting the final outcomes or assessment plan.
-- **Climate-context status:** A two-meeting draft prototype uses fictional climate cards and modeled design comparisons. It is available for review and does not make climate an essential strand.
-- **Materials life-cycle status:** A two-meeting draft prototype uses fictional material life-cycle and tradeoff data. It is available for review and does not make materials an essential strand.
-- **Air-and-ventilation status:** A two-meeting draft prototype uses fictional air-path evidence and ventilation-choice comparisons. It is available for review and does not make air or ventilation an essential strand.
-- **Water-use systems status:** A two-meeting draft prototype uses fictional input → use → output maps and water-use model comparisons. It is available for review and does not make water use an essential strand.
-- **Culminating-task status:** A developer-facing comparison packet contains three fictional end-task candidates, a common rubric, and pacing prompts. It is available for educator review and does not select a final assessment, outcomes, strands, or course map.
-- **Feedback-and-controls systems status:** A two-meeting draft prototype uses fictional dashboard signals, feedback-loop models, and control-plan comparisons. It is available for review and does not make building controls an essential strand.
+- **Climate-context status:** An earlier non-home prototype is supplementary; climate is not selected as an essential strand.
+- **Materials life-cycle status:** An earlier library-based prototype is supplementary; materials are not selected as an essential strand.
+- **Air-and-ventilation status:** The earlier school-HVAC prototype is supplementary. A residential air model would require substantive rebuilding and review.
+- **Water-use systems status:** A new two-meeting [residential draft](prototypes/water-use-systems/README.md) uses a fictional single-family home and a limited hot-water-path comparison. It is available for review, not selected for the final course map.
+- **Culminating-task status:** The earlier learning-studio comparison packet is supplementary. No residential culminating assessment, outcomes, strands, or course map has been selected.
+- **Feedback-and-controls systems status:** The earlier school-centered draft is retained only in the supplementary folder; no main residential controls section is planned now.
 
 ## Confirmed Course Setting
 
@@ -28,7 +28,7 @@ _Canonical developer-facing status brief._
 
 ## Current Design Direction
 
-The course's central idea remains: **buildings are systems whose parts interact with people and the environment.**
+The approved central idea is: **a home is a system whose parts interact with its occupants and surroundings.**
 
 Heat flow is being developed as a recurring lens students can use to explain thermal comfort, insulation, sunlight, air movement, and design tradeoffs. It is one important concept among the still-provisional content strands; it does not replace the need to decide how air, moisture, light, materials, sound, energy, climate, and indoor environmental quality will fit together.
 
@@ -44,15 +44,15 @@ The intended classroom materials are defined at a category level:
 - Presentation content where it has a clear instructional purpose
 - Assessment tasks, student products, and rubrics
 
-The detailed format is described in the [Instructional Materials and GitHub Plan](instructional-materials-and-github-plan.md). The [Heat-Flow Launch Prototype](prototypes/heat-flow-launch/README.md), [Moisture Pathways Prototype](prototypes/moisture-pathways/README.md), [Climate-Context Design Cases Prototype](prototypes/climate-context-design-cases/README.md), [Materials Life-Cycle Tradeoffs Prototype](prototypes/materials-life-cycle-tradeoffs/README.md), [Air and Ventilation Systems Prototype](prototypes/air-and-ventilation-systems/README.md), [Water-Use Systems Prototype](prototypes/water-use-systems/README.md), and [Feedback-and-Controls Systems Prototype](prototypes/feedback-and-controls-systems/README.md) are complete draft sets of teacher plans, student pages, rubrics, and presentation outlines. The [Systems-Model Evidence Progression](systems-model-evidence-progression-proposal.md) and [Culminating Task Comparison Packet](prototypes/culminating-task-comparison/README.md) are developer-facing review packets. All remain in `docs/development/` until educator review and testing.
+The detailed format is described in the [Instructional Materials and GitHub Plan](instructional-materials-and-github-plan.md). The [residential water-use prototype](prototypes/water-use-systems/README.md) is the first newly home-centered lesson draft. The earlier school/commercial packets, including controls and the culminating-task comparison, remain [supplementary resources](supplementary/school-and-commercial/README.md). The [Systems-Model Evidence Progression](systems-model-evidence-progression-proposal.md) remains a developer-facing proposal. None is classroom-tested or a selected course unit.
 
 ## Next Development Work
 
-1. Review the proposed residential course wording and existing-draft audit in the scope review packet.
+1. Review the residential water-use prototype's science, accessibility, and fit before deciding its place in the course.
 2. Refine course-level learning outcomes, including the scope of heat-flow understanding.
 3. Select the essential content strands and the central course questions or phenomena.
 4. Draft the first nine-week map before choosing the specific placement and number of heat-flow encounters.
-5. Review the candidate systems-model outcomes, culminating-task comparison packet, and all seven draft prototypes in the residential context; select an assessment approach and a representative unit before Phase 3 testing.
+5. Rework any further main lessons around home cases before selecting an assessment approach and a representative unit for Phase 3 testing.
 6. Select a license and contribution policy without delaying routine synchronization of clearly labeled development drafts.
 
 ## Decision Boundary

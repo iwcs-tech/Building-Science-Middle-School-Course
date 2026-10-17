@@ -4,7 +4,7 @@ _Draft instructional prototype for educator review. It is not yet tested, classr
 
 ## What This Includes
 
-This three-meeting sequence launches the recurring heat-flow explanation routine described in the [Heat-Flow Thread Proposal](../../heat-flow-thread-proposal.md). It is designed for seventh- and eighth-grade students in a 40-minute, laptop-supported standard classroom.
+This three-meeting sequence launches the recurring heat-flow explanation routine described in the [Heat-Flow Thread Proposal](../../../heat-flow-thread-proposal.md). It is designed for seventh- and eighth-grade students in a 40-minute, laptop-supported standard classroom.
 
 - [Unit Overview](unit-overview.md)
 - [Lesson 1 Teacher Plan: Notice a Heat-Flow Pattern](teacher/lesson-01-notice-heat-flow.md)

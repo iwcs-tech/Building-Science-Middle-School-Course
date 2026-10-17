@@ -1,88 +1,37 @@
-# Water-Use Systems: Unit Overview
+# Residential Water-Use Systems: Unit Overview
 
-_Draft prototype — two 40-minute meetings._
+_Phase 1 review-only prototype: two 40-minute meetings, grades 7–8._
 
-## Purpose
+## Candidate question
 
-Students use supplied fictional evidence to trace water through a bounded learning-building model: from a named input, through stated uses, to a stated output. They then compare two fictional water-use models using criteria, a constraint, and a limitation. The sequence tests whether water use can be a recurring context for the course's systems idea; it does not select water as an essential strand.
+> How does water move through a home, and what can a simple model reveal—and not reveal—about one hot-water choice?
 
-## Candidate Driving Question
+Students model a fictional single-family home's supplied water, cold and hot branches, fixtures, drains, and outdoor use. They then compare invented water-wait amounts for two hot-water paths. This is a candidate systems example, not a decision that water use is an essential strand.
 
-> How can a building use water in several connected ways, and what can a simplified model tell us about those uses?
+## Candidate evidence of learning
 
-## Candidate Learning Outcomes
+- A labeled, bounded input → distribution → use → output home-water map supported by the case card.
+- A correct distinction between domestic water use and unwanted moisture in the home enclosure.
+- A numerical comparison of water sent to a drain while waiting for hot water, with the model's limits named.
+- A qualified claim that does not treat the smaller number as a complete real-home design recommendation.
 
-Students will be able to:
+## Sequence and materials
 
-- draw a supported input → use → output water-system model from supplied evidence;
-- distinguish building water use from moisture movement through an enclosure;
-- identify relevant system parts, inputs, outputs, and an uncertainty in a fictional model;
-- compare supplied model outputs against stated criteria and a constraint; and
-- make a qualified claim that includes evidence, a tradeoff or limitation, and a needed next question.
-
-## Sequence at a Glance
-
-| Meeting | Question | Main student product |
+| Meeting | Student work | Evidence |
 | --- | --- | --- |
-| 1. Trace | Where does water enter, get used, and leave in this fictional system? | Labeled water-use system map with an uncertainty note |
-| 2. Compare | Which fictional water-use model better fits the stated goals, and what does the model leave out? | Claim-evidence-tradeoff-limitation explanation |
+| 1. Trace the paths | Annotate a supplied home case; draw cold, hot, drain, and outdoor-use arrows | Home-water map and one uncertainty |
+| 2. Compare hot-water paths | Calculate the modeled difference; explain a tradeoff and missing information | Claim, evidence, limitation |
 
-## Shared Reasoning Routine
+Use the teacher display and student laptops or printed pages, pencils, and optional arrow cards. No water, plumbing parts, house visit, field trip, or specialized equipment is required.
 
-1. Bound the fictional system.
-2. Mark a named water input, use, and output.
-3. Attach supplied evidence to each labeled arrow.
-4. Separate a water-use path from enclosure moisture flow.
-5. Compare model outputs against stated criteria and a constraint.
-6. Name a tradeoff, limitation, or information still needed.
+## Teacher science notes
 
-## Materials
+Domestic water use is not the same phenomenon as rain intrusion or condensation in the enclosure. The case assumes treated water arrives from a public supply and used indoor water leaves by a drain to a sewer; real homes may have wells, septic systems, or other arrangements. The diagram describes **this** fictional house only. A water heater raises the temperature of water sent to hot-water fixtures. Water already standing in a hot-water pipe may cool; while waiting for hot water at a fixture, water can run to the drain. A shorter or otherwise better-designed distribution path can reduce that waiting waste, but pipe size, insulation, flow, temperature, use patterns, cost, and construction feasibility also matter. The model has none of those details and does not establish energy savings.
 
-- Teacher display and student laptops, or printed student pages
-- Pencils, highlighters, or digital annotation tools
-- Optional chart paper or shared digital board
+Source basis: [EPA household water uses](https://www.epa.gov/watersense/how-we-use-water); [DOE core plumbing layout](https://bsesc.energy.gov/energy-basics/basics-core-plumbing-layout); [DOE hot-water distribution](https://bsesc.energy.gov/energy-basics/hot-water-distribution-systems).
 
-No water testing, sensors, plumbing access, mechanical-space entry, construction tools, field trip, or measurements from the actual school are required.
+## Access, safety, and review
 
-## Vocabulary
+Provide the home case in text as well as arrows; do not use color alone. Allow spoken, typed, or drawn models. Use paired evidence-reader and arrow-checker roles if helpful. Never ask about a student's household plumbing, bill, water source, or housing situation. Review the [rubric](assessments/residential-water-reasoning-rubric.md) as feedback on reasoning, not as proof the unit belongs in the course.
 
-- **water-use system:** the connected parts that bring water into a space, use it, and send it somewhere afterward
-- **input:** something that enters a system
-- **use:** a purpose or process that needs a resource in the system
-- **output:** something that leaves a system or moves beyond its boundary
-- **potable water:** water supplied for uses such as drinking and handwashing in this fictional model
-- **wastewater:** used water that leaves a stated system through a drain in this fictional model
-- **evaporation:** liquid water changing into water vapor
-- **criterion:** a feature a model or choice should achieve
-- **constraint:** a limit a model or choice must stay within
-- **tradeoff:** a benefit gained while accepting a cost, limitation, or reduced benefit elsewhere
-
-## Science Background for the Teacher
-
-EPA lists restrooms, landscaping, heating and cooling, and cafeteria kitchens among the largest water uses in educational facilities. Those uses can connect water use to energy and to building operations, but actual facility analysis requires context and qualified professionals. This prototype deliberately represents only supplied fictional inputs, uses, and outputs. Students compare model outputs; they do not audit, diagnose, or prescribe changes for a real building.
-
-- [EPA WaterSense: Educational Facilities](https://www.epa.gov/watersense/types-facilities)
-- [EPA WaterSense at Work: Best Management Practices](https://www.epa.gov/watersense/best-management-practices)
-
-## Assessment Evidence
-
-Use the [Water-Use Systems Reasoning Rubric](assessments/water-use-systems-rubric.md) to review the Lesson 1 system map and Lesson 2 explanation. Prioritize evidence, system boundaries, appropriate distinctions, and uncertainty rather than a single correct plan.
-
-## Accessibility and Participation
-
-- Provide the map in text-and-arrow form; do not rely on color alone.
-- Preview vocabulary with a visible word bank and optional icon support.
-- Let students draw, type, dictate, or explain their model aloud.
-- Assign partner roles such as map reader, evidence finder, arrow checker, and questioner.
-- Offer a partially completed map or comparison table when needed.
-
-## Prototype Review Questions
-
-- Can students trace an input, use, and output without treating the model as a claim about their school?
-- Do students distinguish water use from enclosure moisture pathways?
-- Can students use fictional quantities as model evidence while naming a limitation?
-- Does the comparison fit a 40-minute period without turning students into facility auditors or decision-makers?
-
----
-
-_Last updated: 2026-09-24_
+_Drafted: 2026-10-17_

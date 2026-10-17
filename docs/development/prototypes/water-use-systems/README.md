@@ -1,33 +1,26 @@
-# Water-Use Systems Prototype
+# Residential Water-Use Systems Prototype
 
-_Draft instructional prototype for educator review. It is not tested, classroom-ready curriculum._
+_New two-meeting, home-centered draft for educator review; not tested or approved for classroom use or placement in the nine-week map._
 
-This two-meeting sequence uses fictional evidence to help seventh- and eighth-grade students map how water enters, is used by, and leaves a bounded learning-building system. Students distinguish a water-use system from the existing enclosure-moisture work, then compare two supplied fictional water-use models without evaluating their school or recommending a facility change.
+Students trace water through a fictional single-family home, then use a deliberately simplified hot-water-wait model to compare two layouts. The package replaces the school-centered water case, which remains in [supplementary resources](../../supplementary/school-and-commercial/water-use-systems/README.md).
 
-- [Unit Overview](unit-overview.md)
-- [Lesson 1 Teacher Plan: Trace Water Uses](teacher/lesson-01-trace-water-uses.md)
-- [Lesson 1 Student Page: Water-Use System Map](student/lesson-01-water-use-system-map.md)
-- [Lesson 2 Teacher Plan: Compare Water-Use Models](teacher/lesson-02-compare-water-use-models.md)
-- [Lesson 2 Student Page: Water-Use Model Comparison](student/lesson-02-water-use-model-comparison.md)
-- [Water-Use Systems Reasoning Rubric](assessments/water-use-systems-rubric.md)
-- [Slide Outline](presentations/water-use-systems-slide-outline.md)
+- [Unit overview](unit-overview.md)
+- [Lesson 1 teacher plan](teacher/lesson-01-trace-home-water.md) and [student page](student/lesson-01-home-water-map.md)
+- [Lesson 2 teacher plan](teacher/lesson-02-compare-hot-water-paths.md) and [student page](student/lesson-02-hot-water-path-comparison.md)
+- [Reasoning rubric](assessments/residential-water-reasoning-rubric.md)
+- [Slide outline](presentations/residential-water-slide-outline.md)
 
-## Review Before Use
+## Review boundary
 
-- All rooms, maps, quantities, water paths, model outputs, and comparison choices are fictional instructional evidence. They do not describe the school or its water systems.
-- Confirm timing, reading level, vocabulary, and print/digital formats with the intended learners before classroom use.
-- Use the teacher plans as adaptable facilitation notes, not word-for-word scripts.
-- Do not ask students to inspect restrooms, plumbing, drains, cooling equipment, irrigation, or other actual-school systems. Do not collect health information, test water, interpret codes, report a suspected leak, or recommend repairs, purchases, or operating changes.
+All home diagrams and numbers are invented teaching models, not household averages, engineering estimates, code guidance, or recommendations for construction. Students use only supplied cases; they do not report on their own homes, inspect plumbing, test water, enter mechanical areas, or advise a household to change equipment. A teacher should check scientific accuracy, accessibility, timing, local water-context assumptions, and the final strand choice before use.
 
-## Source and Asset Status
+## Source basis
 
-EPA identifies restrooms, landscaping, heating and cooling, and cafeteria kitchens as major water uses in educational facilities. EPA also treats water-use monitoring and the water-energy connection as facility-management topics. This prototype narrows those ideas to fictional systems models and evidence reasoning appropriate for a standard classroom.
+EPA describes the range of indoor and outdoor household water uses and the connection between hot water and energy. DOE explains that the distance and layout between a water heater and fixtures can affect the wait for hot water and water sent down the drain while waiting. The instructional figures in this packet are invented and are not taken from those sources.
 
-- [EPA WaterSense: Educational Facilities](https://www.epa.gov/watersense/types-facilities)
-- [EPA WaterSense at Work: Best Management Practices](https://www.epa.gov/watersense/best-management-practices)
+- [EPA WaterSense: How We Use Water](https://www.epa.gov/watersense/how-we-use-water)
+- [EPA WaterSense: About WaterSense](https://www.epa.gov/watersense/about-watersense)
+- [DOE Building Science Education: The Basics of Core Plumbing Layout](https://bsesc.energy.gov/energy-basics/basics-core-plumbing-layout)
+- [DOE Building Science Education: Hot Water Distribution Systems](https://bsesc.energy.gov/energy-basics/hot-water-distribution-systems)
 
-The fictional cases, diagrams, tables, and prompts are original instructional text. No external visual assets are included.
-
----
-
-_Last updated: 2026-09-24_
+_Drafted: 2026-10-17_

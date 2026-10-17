@@ -36,18 +36,12 @@ The weekly schedule is intended to maintain steady progress on course developmen
 The following developer-facing documents record the current direction and should be read as planning artifacts, not classroom-ready curriculum:
 
 - [Project Brief](docs/development/project-brief.md) — the confirmed setting, current status, and decisions still needed.
-- [Residential Building Science Scope Review Packet](docs/development/residential-scope-reset-review-packet.md) — proposed single-family-home course wording and a review of the existing drafts' residential fit.
+- [Residential Building Science Scope Review Packet](docs/development/residential-scope-reset-review-packet.md) — the approved residential scope and disposition of earlier drafts.
 - [Heat-Flow Thread Proposal](docs/development/heat-flow-thread-proposal.md) — the approved direction to develop heat flow as a recurring explanatory idea, without making it the course's sole organizer.
-- [Heat-Flow Launch Prototype](docs/development/prototypes/heat-flow-launch/README.md) — three draft lessons and supporting materials prepared for review before classroom testing.
+- [Supplementary School/Commercial Drafts](docs/development/supplementary/school-and-commercial/README.md) — preserved earlier cases, including heat flow, moisture, air, materials, climate, controls, the original water case, and culminating-task candidates; these are not the residential main sequence.
 - [Moisture Pathways Strand Proposal](docs/development/moisture-pathways-strand-proposal.md) — a candidate moisture strand and its boundaries; the essential-strand decision remains under review.
-- [Moisture Pathways Prototype](docs/development/prototypes/moisture-pathways/README.md) — two draft lessons and supporting materials prepared for educator review before classroom testing.
 - [Systems-Model Evidence Progression](docs/development/systems-model-evidence-progression-proposal.md) — a review packet for comparing candidate course-level outcomes and evidence across the developing strands.
-- [Climate-Context Design Cases Prototype](docs/development/prototypes/climate-context-design-cases/README.md) — two draft lessons that use fictional climate contexts and modeled design comparisons.
-- [Materials Life-Cycle Tradeoffs Prototype](docs/development/prototypes/materials-life-cycle-tradeoffs/README.md) — two draft lessons that use fictional life-cycle and material-choice comparisons.
-- [Air and Ventilation Systems Prototype](docs/development/prototypes/air-and-ventilation-systems/README.md) — two draft lessons that use fictional air-path models and ventilation-choice comparisons.
-- [Water-Use Systems Prototype](docs/development/prototypes/water-use-systems/README.md) — two draft lessons that use fictional water-use maps and model comparisons.
-- [Feedback-and-Controls Systems Prototype](docs/development/prototypes/feedback-and-controls-systems/README.md) — two draft lessons that use fictional feedback-loop models and control-plan comparisons.
-- [Culminating Task Comparison Packet](docs/development/prototypes/culminating-task-comparison/README.md) — three fictional end-task candidates, a comparison rubric, and a pacing review for educator decision-making.
+- [Residential Water-Use Systems Prototype](docs/development/prototypes/water-use-systems/README.md) — two new home-centered draft lessons for educator review; placement in the nine-week map remains open.
 - [Instructional Materials and GitHub Plan](docs/development/instructional-materials-and-github-plan.md) — the planned material types, repository structure, and decisions required before public release.
 
 ## Confirmed Project Decisions
@@ -62,6 +56,7 @@ The following developer-facing documents record the current direction and should
 - The course should assume no more than one field trip.
 - The teacher-led classroom version will be developed before the fully online version.
 - Files and artifacts will be stored in Markdown by default unless another format is necessary.
+- Residential single-family homes are the main lesson context. Earlier school/commercial cases are retained as supplementary resources; feedback and controls are supplementary, not a main residential section at this stage.
 
 ## Proposed Development Phases
 
@@ -138,7 +133,7 @@ The detailed output model and public-GitHub workflow are maintained in the [Inst
 
 ## Immediate Next Decisions
 
-1. Review the proposed residential wording and existing-draft audit in the scope review packet.
+1. Review the new residential water-use prototype for scientific accuracy, age fit, and whether it merits a place in the eventual course map.
 2. Define and compare possible course-level learning outcomes.
 3. Select the course's essential content strands.
 4. Choose the central questions or phenomena that will connect the nine weeks.

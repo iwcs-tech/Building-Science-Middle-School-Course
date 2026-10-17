@@ -12,7 +12,7 @@ This packet helps the course developer and educator reviewers compare three poss
 
 ## Candidate Outcomes Being Tested
 
-The packet tests the current, unapproved outcomes in the [Systems-Model Evidence Progression](../../systems-model-evidence-progression-proposal.md):
+The packet tests the current, unapproved outcomes in the [Systems-Model Evidence Progression](../../../systems-model-evidence-progression-proposal.md):
 
 1. Bound a system.
 2. Trace an interaction.
