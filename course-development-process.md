@@ -36,6 +36,7 @@ The weekly schedule is intended to maintain steady progress on course developmen
 The following developer-facing documents record the current direction and should be read as planning artifacts, not classroom-ready curriculum:
 
 - [Project Brief](docs/development/project-brief.md) — the confirmed setting, current status, and decisions still needed.
+- [Residential Building Science Scope Review Packet](docs/development/residential-scope-reset-review-packet.md) — proposed single-family-home course wording and a review of the existing drafts' residential fit.
 - [Heat-Flow Thread Proposal](docs/development/heat-flow-thread-proposal.md) — the approved direction to develop heat flow as a recurring explanatory idea, without making it the course's sole organizer.
 - [Heat-Flow Launch Prototype](docs/development/prototypes/heat-flow-launch/README.md) — three draft lessons and supporting materials prepared for review before classroom testing.
 - [Moisture Pathways Strand Proposal](docs/development/moisture-pathways-strand-proposal.md) — a candidate moisture strand and its boundaries; the essential-strand decision remains under review.
@@ -52,6 +53,7 @@ The following developer-facing documents record the current direction and should
 ## Confirmed Project Decisions
 
 - The initial audience is seventh- and eighth-grade students.
+- The intended building-science subject is an ordinary single-family home; the course is taught in a school classroom.
 - Typical enrollment is approximately 15 students but may vary.
 - The initial course will run for nine weeks.
 - Classes will meet three days per week for 40 minutes, producing 27 meetings and 18 instructional hours.
@@ -136,12 +138,13 @@ The detailed output model and public-GitHub workflow are maintained in the [Inst
 
 ## Immediate Next Decisions
 
-1. Define and compare possible course-level learning outcomes.
-2. Select the course's essential content strands.
-3. Choose the central questions or phenomena that will connect the nine weeks.
-4. Identify several possible culminating tasks.
-5. Draft the first version of the 27-session course map.
+1. Review the proposed residential wording and existing-draft audit in the scope review packet.
+2. Define and compare possible course-level learning outcomes.
+3. Select the course's essential content strands.
+4. Choose the central questions or phenomena that will connect the nine weeks.
+5. Review the candidate culminating tasks in the residential context.
+6. Draft the first version of the 27-session course map.
 
 ---
 
-_Last updated: 2026-09-24_
+_Last updated: 2026-10-17_

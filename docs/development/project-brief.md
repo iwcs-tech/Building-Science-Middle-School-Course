@@ -6,6 +6,7 @@ _Canonical developer-facing status brief._
 
 - **Phase:** Phase 1 — Define the Course
 - **Classroom version first:** Teacher-led, then adapted for other formats after testing
+- **Residential subject:** The course developer clarified that an ordinary single-family home is the intended building-science subject. The [Residential Building Science Scope Review Packet](residential-scope-reset-review-packet.md) proposes course wording and audits the existing drafts; the proposed wording has not yet replaced the course concept.
 - **Repository status:** The local workspace tracks the remote [Building Science Middle School Course repository](https://github.com/iwcs-tech/Building-Science-Middle-School-Course). New and modified project documents are validated, committed, and pushed while retaining their explicit draft and review-only status. A license has not yet been selected.
 - **Heat-flow status:** Approved for continued Phase 1 development as a recurring explanatory idea, not as the course's sole organizing concept. A three-meeting draft prototype is prepared for review; Phase 3 classroom testing has not started.
 - **Moisture-pathways status:** A candidate strand is now represented by a two-meeting draft prototype using fictional source → path → effect cases. It remains subject to educator review and does not settle the essential-strand decision.
@@ -47,11 +48,12 @@ The detailed format is described in the [Instructional Materials and GitHub Plan
 
 ## Next Development Work
 
-1. Refine course-level learning outcomes, including the scope of heat-flow understanding.
-2. Select the essential content strands and the central course questions or phenomena.
-3. Draft the first nine-week map before choosing the specific placement and number of heat-flow encounters.
-4. Review the candidate systems-model outcomes, culminating-task comparison packet, and all seven draft prototypes; select an assessment approach and a representative unit before Phase 3 testing.
-5. Select a license and contribution policy without delaying routine synchronization of clearly labeled development drafts.
+1. Review the proposed residential course wording and existing-draft audit in the scope review packet.
+2. Refine course-level learning outcomes, including the scope of heat-flow understanding.
+3. Select the essential content strands and the central course questions or phenomena.
+4. Draft the first nine-week map before choosing the specific placement and number of heat-flow encounters.
+5. Review the candidate systems-model outcomes, culminating-task comparison packet, and all seven draft prototypes in the residential context; select an assessment approach and a representative unit before Phase 3 testing.
+6. Select a license and contribution policy without delaying routine synchronization of clearly labeled development drafts.
 
 ## Decision Boundary
 
@@ -59,4 +61,4 @@ The course developer approves consequential curriculum decisions. Documents in `
 
 ---
 
-_Last updated: 2026-09-24_
+_Last updated: 2026-10-17_
