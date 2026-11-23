@@ -42,6 +42,7 @@ The following developer-facing documents record the current direction and should
 - [Moisture Pathways Strand Proposal](docs/development/moisture-pathways-strand-proposal.md) — a candidate moisture strand and its boundaries; the essential-strand decision remains under review.
 - [Systems-Model Evidence Progression](docs/development/systems-model-evidence-progression-proposal.md) — a review packet for comparing candidate course-level outcomes and evidence across the developing strands.
 - [Residential Water-Use Systems Prototype](docs/development/prototypes/water-use-systems/README.md) — two new home-centered draft lessons for educator review; placement in the nine-week map remains open.
+- [Seasonal Heat-Pump Transfer Model](docs/development/prototypes/seasonal-heat-pump/README.md) — two home-centered draft lessons on powered heat transfer for educator review; placement remains open.
 - [Instructional Materials and GitHub Plan](docs/development/instructional-materials-and-github-plan.md) — the planned material types, repository structure, and decisions required before public release.
 
 ## Confirmed Project Decisions

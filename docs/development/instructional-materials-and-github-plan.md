@@ -1,5 +1,7 @@
 # Instructional Materials and GitHub Plan
 
+The [seasonal heat-pump prototype](prototypes/seasonal-heat-pump/README.md) is a two-meeting residential draft for educator review; it does not select course placement.
+
 _Developer-facing plan for building adaptable classroom materials and preparing them for public release._
 
 ## Purpose

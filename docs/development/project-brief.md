@@ -15,6 +15,7 @@ _Canonical developer-facing status brief._
 - **Materials life-cycle status:** An earlier library-based prototype is supplementary; materials are not selected as an essential strand.
 - **Air-and-ventilation status:** The earlier school-HVAC prototype is supplementary. A residential air model would require substantive rebuilding and review.
 - **Water-use systems status:** A new two-meeting [residential draft](prototypes/water-use-systems/README.md) uses a fictional single-family home and a limited hot-water-path comparison. It is available for review, not selected for the final course map.
+- **Seasonal heat-pump status:** A two-meeting [residential draft](prototypes/seasonal-heat-pump/README.md) models powered heat transfer in two seasons; it awaits educator review and has no selected course placement.
 - **Culminating-task status:** The earlier learning-studio comparison packet is supplementary. No residential culminating assessment, outcomes, strands, or course map has been selected.
 - **Feedback-and-controls systems status:** The earlier school-centered draft is retained only in the supplementary folder; no main residential controls section is planned now.
 
